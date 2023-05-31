@@ -244,5 +244,30 @@ header  a {
 }
 .content-section a{
     position: relative;
-  }   
+  }
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(236, 232, 17);
+    background: rgba(181, 180, 115, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    height: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  .overlay-main-work{
+    width: 100%;
+  }
+  .overlay-works
+  {
+    width: 460px;
+  }
+  .div-work:hover .overlay
+{
+  opacity: 1;
+}   
   
