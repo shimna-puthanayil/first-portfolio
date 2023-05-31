@@ -42,20 +42,20 @@ p {
     
 
 }
-    h3 {
+ h3 {
         margin-bottom: 10px;
         text-align: center;
     }
     
-    ul {
+ul {
         list-style-type: none;
     }
     
-    li {
+li {
         display: inline-block;
         margin-left: 5px;
     }
-    header {
+header {
         display: flex;
         justify-content: space-between;
         padding: 20px 20px 20px 0px;
@@ -63,7 +63,7 @@ p {
         background-color:var(--color_dark);
         color: #ffffff;
     }
-    header  a {
+header  a {
         color:var(--color_aqua);
         padding: 8px;
         text-decoration:none;
@@ -75,14 +75,14 @@ p {
         font-weight: 100px;
     }
     
-    header a:hover,header a:focus {
+ header a:hover,header a:focus {
         color:whitesmoke;
         background-color: transparent;
         text-decoration: none;
         border-color:whitesmoke;
       }
       
-      header a:active {
+ header a:active {
         color:#b8c2d8;
         background-color: transparent;
         text-decoration: underline;
@@ -155,4 +155,74 @@ p {
         border-color:var(--color_dark);
         border-left-width: 4px;
         }
+        row {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            
+          }
+          
+  .div-work
+        {
+           padding: 20px 0px 0px 0px;
+        }
+    .justify-start {
+    justify-content:flex-start ;
+  
+  }
+  .main-work {
+    position: relative; 
+    display: flex;
+    flex:2 0 100%;
+    transition: flex-basis 500ms linear;
+    display: flex;
+    flex-direction: row;
+    height: 537px;
+    /* outline is like border, but on the outside of the box instead of inside */
+    outline: 5px solid var(--color_aqua);
+    outline-offset: -2px;
+    transition: all 0.5s ease-in-out;
+  }
+  .main-work-header {
+   
+    /* use position and negative margins to move title of card over the card's outline and create an overlap effect */
+    position: absolute;
+   
+    margin-top :-85px;
+    width: auto;
+    left: 0px;
+    padding: 10px 5px 5px 10px;
+    background-color: var(--color_aqua);
+    color: var(--color_dark);
+    transition: all 0.5s ease-in-out;
+  }
+  /* make each code card a flexbox column to align and justify content within it */
+  .other-works {
+    flex: 1 0 100% ;
+    position:relative;
+    padding-top: 0;margin-right: 20px;
+    /* when the screen resizes, make it so our columns don't jump in size */
+    transition: flex-basis 500ms linear;
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    width: 460px;
+    /* outline is like border, but on the outside of the box instead of inside */
+    outline: 5px solid var(--color_aqua);
+    outline-offset: -2px;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .other-works-header {
+    /* use position and negative margins to move title of card over the card's outline and create an overlap effect */
+    position: absolute;
+   
+    margin-top :-85px;
+    width: fit-content;
+    left: 0px;
+    padding: 10px 5px 5px 10px;
+    background-color: var(--color_aqua);
+    color: var(--color_dark);
+    transition: all 0.5s ease-in-out;
+  }
     
