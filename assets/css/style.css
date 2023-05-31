@@ -118,4 +118,41 @@ p {
           margin-left:4px;
       
       }
+      .add-margin-top
+      {
+        margin-top: 10px;
+      }
+      .title-section{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        flex: 23.5%;
+        width: 23.5%;
+        font-family: sans-serif;
+        font-weight: 100px;
+        margin:0px 0px 0px 0px;
+        margin-left: 20px;
+    }
+    .portfolio-sec-title{
+
+        font-size: 50px;
+        font-weight:650px;
+        color: #06344d;
+        position: relative; 
+        text-align:end;
+        display: block;
+        right :35px;
+        font-family: var(--font_family);
+      } 
+      .content-section{
+        position: relative; 
+        left:332px;
+        top: -100px;
+        width: 76.5%;
+        padding-left: 32px;
+        padding-bottom: 20px; 
+        border-left-style: solid;
+        border-color:var(--color_dark);
+        border-left-width: 4px;
+        }
     
