@@ -18,9 +18,9 @@ This website is built responsive. The user can access this website on laptop, ta
 
 The following images show the web application's appearance and functionality   :
 
-![Portfolio 1](assets/images/portfolio 1.png)
-![Portfolio 2](assets/images/portfolio 2.png)
-![Portfolio 3](assets/images/portfolio 3.png)
+![Portfolio 1](assets/images/portfolio1.png)
+![Portfolio 2](assets/images/portfolio2.png)
+![Portfolio 3](assets/images/portfolio3.png)
 
 Link to website  :
 
