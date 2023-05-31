@@ -269,5 +269,31 @@ header  a {
   .div-work:hover .overlay
 {
   opacity: 1;
-}   
+}
+.sec-contact
+  {
+    position: relative;
+    width: 2000px;
+    top: -50px;
+    height: 150px;
+  }
+.contact-details {
+   
+    justify-content: space-between; 
+    padding: 40px 0 40px 0 ;
+    
+  }
+  .contact-details  a{
+    
+      color:var(--color_dark);
+      padding: 8px;
+      text-decoration:none;
+      border-bottom-style: solid;
+      border-color:var(--color_dark);
+      border-bottom-width: 4px;
+      font-size: 22px;
+      font-family: var(--font_family);
+      font-weight: 100px;
+      margin:0 50px  5px 0;
+  }    
   
