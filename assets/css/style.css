@@ -305,12 +305,12 @@ header  a {
     }  */
     header a{
       border-bottom-style: solid;
-      color: #e06d08;
+      /* color: #e06d08; */
     }
-    body
+    /* body
     {
       background-color: rgb(21, 116, 104);
-    }
+    } */
     .portfolio-sections{
       display: flex;
       flex-wrap: wrap;
@@ -350,11 +350,11 @@ header  a {
   }
 }
   @media screen and (max-width: 992px) {
-    body
+    /* body
     {
       background-color: beige;
      
-    }
+    } */
     main,nav
      {
       flex-direction: row;
@@ -416,10 +416,10 @@ header  a {
       flex-direction: column;
       justify-content: center;
     }
-    body
+    /* body
     {
       background-color: rgb(201, 107, 121);
-    }
+    } */
     header{
       
       flex-direction: column;
