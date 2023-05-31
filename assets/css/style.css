@@ -155,7 +155,7 @@ header  a {
         border-color:var(--color_dark);
         border-left-width: 4px;
         }
-        row {
+        .row {
             display: flex;
             flex-wrap: wrap;
             flex-direction: row;
@@ -166,6 +166,12 @@ header  a {
         {
            padding: 20px 0px 0px 0px;
         }
+        .div-work p{
+   
+            font-size: 15px;
+            font-family: var(--font_family);
+           /* line-height: 1.5; */
+      }
     .justify-start {
     justify-content:flex-start ;
   
@@ -185,7 +191,7 @@ header  a {
   }
   .main-work-header {
    
-    /* use position and negative margins to move title of card over the card's outline and create an overlap effect */
+    
     position: absolute;
    
     margin-top :-85px;
@@ -196,7 +202,7 @@ header  a {
     color: var(--color_dark);
     transition: all 0.5s ease-in-out;
   }
-  /* make each code card a flexbox column to align and justify content within it */
+  
   .other-works {
     flex: 1 0 100% ;
     position:relative;
@@ -214,7 +220,7 @@ header  a {
   }
   
   .other-works-header {
-    /* use position and negative margins to move title of card over the card's outline and create an overlap effect */
+  
     position: absolute;
    
     margin-top :-85px;
@@ -225,4 +231,18 @@ header  a {
     color: var(--color_dark);
     transition: all 0.5s ease-in-out;
   }
-    
+  .work-title
+{
+  font-size: 20px;
+  
+}
+.work-subtitle
+{
+  font-size: 10px;
+  margin: 0;
+  margin-top: 5px;
+}
+.content-section a{
+    position: relative;
+  }   
+  
