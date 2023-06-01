@@ -2,8 +2,8 @@
 
 
 ## Description
-This is a portfolio website which showcases my projects. The website contains about me section, work section and a contact details section.The layout of the work section is displayed in a way that the first application image is larger in size compared to others.The website is built with a responsive layout which makes it adaptable to different screen sizes.
 
+This is a portfolio website which showcases my projects. The website contains about me section, work section and a contact details section.The layout of the work section is displayed in a way that the first application image is larger in size compared to others.The website is built with a responsive layout which makes it adaptable to different screen sizes.
 
 ## Installation
 
@@ -18,9 +18,24 @@ This website is built responsive. The user can access this website on laptop, ta
 
 The following images show the web application's appearance and functionality   :
 
-![Portfolio 1](assets/images/portfolio1.png)
-![Portfolio 2](assets/images/portfolio2.png)
-![Portfolio 3](assets/images/portfolio3.png)
+Laptop screen :
+
+![Portfolio Laptop 1](assets/images/laptop1.png)
+![Portfolio Laptop 2](assets/images/laptop2.png)
+![Portfolio Laptop 3](assets/images/laptop3.png)
+
+Tablet screen 
+
+![Portfolio Tab 1](assets/images/tab1.png)
+![Portfolio Tab 2](assets/images/tab2.png)
+![Portfolio Tab 3](assets/images/tab3.png)
+
+Mobile screen
+
+![Portfolio Mobile 1](assets/images/mobile1.png)
+![Portfolio Mobile 2](assets/images/mobile2.png)
+![Portfolio Mobile 3](assets/images/mobile3.png)
+![Portfolio Mobile 4](assets/images/mobile4.png)
 
 Link to website  :
 
