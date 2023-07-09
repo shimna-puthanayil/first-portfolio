@@ -18,24 +18,9 @@ This website is built responsive. The user can access this website on laptop, ta
 
 The following images show the web application's appearance and functionality   :
 
-Laptop screen :
-
-![Portfolio Laptop 1](assets/images/laptop1.png)
-![Portfolio Laptop 2](assets/images/laptop2.png)
-![Portfolio Laptop 3](assets/images/laptop3.png)
-
-Tablet screen 
-
-![Portfolio Tab 1](assets/images/tab1.png)
-![Portfolio Tab 2](assets/images/tab2.png)
-![Portfolio Tab 3](assets/images/tab3.png)
-
-Mobile screen
-
-![Portfolio Mobile 1](assets/images/mobile1.png)
-![Portfolio Mobile 2](assets/images/mobile2.png)
-![Portfolio Mobile 3](assets/images/mobile3.png)
-![Portfolio Mobile 4](assets/images/mobile4.png)
+![Portfolio Laptop 1](assets/images/image1.png)
+![Portfolio Laptop 2](assets/images/image2.png)
+![Portfolio Laptop 3](assets/images/image3.png)
 
 Link to website  :
 
