@@ -1,6 +1,6 @@
 /* ###############    VARIABLE DECLARATION    ############### */
 :root{
-    --color_aqua:rgb(124, 206, 206);
+    --color_aqua:rgb(111, 171, 171);
     --color_dark:rgb(1, 0, 0);
     --font_family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;sans-serif;
 
@@ -444,33 +444,29 @@ footer {
       flex-direction: column;
       justify-content: center;
     }
-    /* body
-    {
-      background-color: rgb(201, 107, 121);
-    } */
+    
     header{
       
       flex-direction: column;
       align-items: center;
     }
+    
     .portfolio-sections{
       display: flex;
-      /* flex-wrap: wrap; */
       flex-direction: column;
       align-items: center;
     }
+
     p {
       margin-right: 20px;
     }
+
     .portfolio-sec-title{
       text-align: center;
-      /* display: block; */
       margin-left: 180px;
      
     }
     .title-section {
-    /* flex-direction: column; */
-
       flex: 0 0 100%;
       max-width: 100%;
     
@@ -484,22 +480,27 @@ footer {
       max-width: 100%;
       border-left-style: none;
     }
+
     .main-work{
       flex: 0 0 100%;
       max-width: 100%;
       width: 460px;
     }
+
     .other-works {
       flex: 0 0 100%;
       max-width: 100%;
     }
+
     .overlay-main-work{
       width: 100%;
     }
+
     .overlay-works
-  {
+    {
     width: 100%;
-  }
+    }
+
     .contact-details{
       display: flex;
       /* flex-wrap: nowrap; */
@@ -519,7 +520,8 @@ footer {
       left:-20px;
       height: auto;
     }
-      .contact-details a{
+
+    .contact-details a{
         border-bottom-style: solid;
       }
   }
