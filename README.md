@@ -1,6 +1,5 @@
 # Portfolio Responsive Webpage
 
-
 ## Description
 
 This is a portfolio website which showcases my projects. The website contains about me section, work section and a contact details section.The layout of the work section is displayed in a way that the first application image is larger in size compared to others.The website is built with a responsive layout which makes it adaptable to different screen sizes.
@@ -16,15 +15,15 @@ The first section, About Me, contains a brief introduction. The second section W
 
 This website is built responsive. The user can access this website on laptop, tablet and mobile devices.
 
-The following images show the web application's appearance and functionality   :
+The following images show the web application's appearance and functionality :
 
 ![Portfolio Laptop 1](assets/images/image1.png)
 ![Portfolio Laptop 2](assets/images/image2.png)
 ![Portfolio Laptop 3](assets/images/image3.png)
 
-Link to website  :
+Link to website :
 
-https://shimna-puthanayil.github.io/portfolio-responsive/
+https://shimna-puthanayil.github.io/first-portfolio/
 
 ## Credits
 
