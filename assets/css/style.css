@@ -194,7 +194,7 @@ footer {
   flex: 0 0 100%;
   transition: flex-basis 500ms linear;
   flex-wrap: wrap;
-  height: 545px;
+  height: 540px;
   outline: 5px solid var(--color_aqua);
   outline-offset: -2px;
   transition: all 0.5s ease-in-out;
@@ -226,6 +226,8 @@ footer {
   outline: 5px solid var(--color_aqua);
   outline-offset: -2px;
   transition: all 0.5s ease-in-out;
+  object-fit: cover;
+  object-position:0 0;
 }
 
 .other-works-header {
